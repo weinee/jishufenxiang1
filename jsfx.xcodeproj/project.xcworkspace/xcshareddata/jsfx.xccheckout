@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5832A545-AA97-468A-A2CE-DEF5BDF7D3E4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9BC821AEBA0BA2D296156DECD9221A446911DE48</key>
+		<string>https://github.com/weinee/jishufenxiang1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>jsfx.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9BC821AEBA0BA2D296156DECD9221A446911DE48</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/weinee/jishufenxiang1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9BC821AEBA0BA2D296156DECD9221A446911DE48</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9BC821AEBA0BA2D296156DECD9221A446911DE48</string>
+			<key>IDESourceControlWCCName</key>
+			<string>jsfx</string>
+		</dict>
+	</array>
+</dict>
+</plist>
